@@ -35,6 +35,8 @@ Using node.js and the inquirer npm package, you can generate a professional READ
 
 You will need to have Node.js and Inquirer npm installed. Download the index.js file and run npm install.
 
+Open the terminal and run the file in node:
+
 ```bash
 node index.js
 ```
