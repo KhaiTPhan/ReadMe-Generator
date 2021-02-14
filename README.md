@@ -1,21 +1,27 @@
-# Readme file generator
+# ReadMe File Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-create a streamline way to produce readme files
+#### Motivation
 
-by answering a series of questions, a readme file will be automatically generated. It will be formatted in markdown language which you can upoad to your repository.
+Readme files are an important component of any project. However, it can be time consuming to produce and sometimes you forget to include relevant sections. Having an automatic way to produce it will save a lot of time. 
 
-Table of contents
-=================
+#### Key features
+
+Using node.js and the inquirer npm package, you can generate a professional readme file in a very short period of time. The file will be written in markdown language with all the relevant formats.
+
+#### Technologies used
+
+* JavaScript,Node.JS,Inquirer
+
+## Table of contents
 
 <!--ts-->
 * [Description](#Description)
-* [Installation instructions](#Installation)
+* [Installation](#Installation)
 * [Usage](#Usage)
-* [Technologies used](#Technologies-used)
 * [License](#License)
 * [Contributions](#Contributions)
 * [Test instructions](#Test-instructions)
@@ -24,23 +30,19 @@ Table of contents
 
 ## Installation
 
-you will need to install node.js, inquirier npm and then run node index.js
+You will beed to install node.js and the inquirer npm package. Run node index.js in the terminal to produce the readme file
 
 ## Usage
 
-![Readme file generator](./images/readme.gif)
+![ReadMe File Generator](./images/readme.gif)
 
 Below is the link to the project URL.
 
-Project URL: readme.github
-
-## Technologies used
-
-* JavaScript,Node.JS,Inquirer
+Project URL: readme-generator.github
 
 ## Test instructions
 
-unit tests on inquirer
+In this case, no need for any tests.
 
 ## License
 
@@ -48,9 +50,11 @@ unit tests on inquirer
 
 ## Contributions
 
-open to contributions to improve the quality of the questions and the format
+I'm open to contributions to help improve the usability of this app. Please contact me at the details below.
 
 ## Questions
+
+If you have any questions, please contact me at:
 
 GitHub URL: khaitphan.github
 
