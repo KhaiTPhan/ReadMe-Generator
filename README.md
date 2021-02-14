@@ -40,7 +40,7 @@ node index.js
 ```
 ## Usage
 
-![README File Generator](./readme.png)
+![README File Generator](./images/readme.png)
 
 Below is the link to the project URL.
 
