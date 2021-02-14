@@ -34,28 +34,4 @@ You will beed to install node.js and the inquirer npm package. Run node index.js
 
 ## Usage
 
-![ReadMe File Generator](./images/readme.gif)
-
-Below is the link to the project URL.
-
-Project URL: readme-generator.github
-
-## Test instructions
-
-In this case, no need for any tests.
-
-## License
-
-* MIT
-
-## Contributions
-
-I'm open to contributions to help improve the usability of this app. Please contact me at the details below.
-
-## Questions
-
-If you have any questions, please contact me at:
-
-GitHub URL: khaitphan.github
-
-Email: khai.phan.2007@gmail.com
+https://github.com/KhaiTPhan
