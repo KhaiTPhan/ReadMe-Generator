@@ -10,7 +10,7 @@ Table of contents
 <!--ts-->
 * [Installation instructions](#Installation-instructions)
 * [Usage](#Usage)
-* [Technologies used](#Technologies-used-and-programming-techniques)
+* [Technologies used](#Technologies-used)
 * [Screenshot](#Screenshots)
 * [Links](#Links)
 <!--te-->
