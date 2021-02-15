@@ -61,12 +61,12 @@ const promptUser = () => {
     },
     {
       type: 'input',
-      message: 'Enter your project URL?',
+      message: 'Enter your project URL',
       name: 'projectUrl',
     },
     {
       type: 'input',
-      message: 'Enter your GitHub username?',
+      message: 'Enter your GitHub username',
       name: 'github',
     },
     {

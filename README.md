@@ -1,4 +1,4 @@
-# README File Generator
+# Code Quiz
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -6,18 +6,15 @@
 
 #### Motivation
 
-Readme files are an important component of any project. However, it can be time consuming to produce and sometimes you forget to include relevant sections. Having an automatic way to produce the file will save a lot of time. 
+to help familiarise with coding
 
 #### Key features
 
-Using node.js and the inquirer npm package, you can generate a professional README file in a very short period of time. The file will be written in markdown language with all the relevant formatting associated with markdown.
+Time based coding quiz with multiple choice questions
 
 #### Technologies used
 
-* JavaScript
-* Node.JS
-* Inquirer npm
-* Markdown
+* JavaScript,CSS,HTML,BootStrap,JQuery
 
 ## Table of contents
 
@@ -33,20 +30,15 @@ Using node.js and the inquirer npm package, you can generate a professional READ
 
 ## Installation
 
-You will need to have Node.js and Inquirer npm installed. Download the index.js file and run npm install.
+This is run via the browser so no installation required
 
-Open the terminal and run the file in node:
-
-```bash
-node index.js
-```
 ## Usage
 
-![README File Generator](./images/readme.PNG)
+![Code Quiz](./images/codequiz.PNG)
 
 Below is the link to the project URL.
 
-Project URL: https://khaitphan.github.io/ReadMe-Generator/.
+Project URL: https://khaitphan.github.io/Code-Quiz
 
 ## Test instructions
 
@@ -58,7 +50,7 @@ Nil
 
 ## Contributions
 
-I'm open to contributions to help improve the usability of this application. Please contact me at the details below.
+Yes, please contact via email or Github
 
 ## Questions
 
