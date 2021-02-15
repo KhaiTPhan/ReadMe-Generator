@@ -66,7 +66,7 @@ const promptUser = () => {
     },
     {
       type: 'input',
-      message: 'Enter your GitHub URL?',
+      message: 'Enter your GitHub username?',
       name: 'github',
     },
     {
@@ -137,7 +137,7 @@ ${response.contributions}
 
 If you have any questions, please contact me at:
 
-GitHub URL: ${response.github}
+GitHub URL: https://github.com/${response.github}
 
 Email: ${response.email}`
 
