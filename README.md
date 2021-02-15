@@ -6,7 +6,7 @@
 
 #### Motivation
 
-When creating an open source project on GitHub, it’s important to have a high-quality README for the app. Writing one from scratch can be time-consuming and there's the risk you might leave oout an important section.
+When creating an open source project on GitHub, it’s important to have a high-quality README for the app. Writing one from scratch can be time-consuming and there's the risk you might leave out an important section. The motivation for this app is to have an efficient and consistent approach to creating README files.
 
 #### Key features
 
