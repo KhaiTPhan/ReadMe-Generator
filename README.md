@@ -35,7 +35,7 @@ This is a command-line application to generate a READMe file in markdown languag
 * Install Node.JS and the inquirer package. 
 * Download the index.js file
 
-To invoke the app, check that you are in the correct folder and type the following in your terminal:
+To invoke the app, check that you are in the correct folder and type the following command in your terminal:
 
 ```bash
 node index.js
@@ -50,7 +50,7 @@ https://github.com/KhaiTPhan/ReadMe-Generator/blob/main/images/README%20File%20G
 Output of a sample README file below:
 ![README File Generator](./images/readme.PNG)
 
-Below is the link to the project URL.
+Below is the link to the project URL:
 
 Project URL: https://khaitphan.github.io/ReadMe-Generator
 
